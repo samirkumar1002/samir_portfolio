@@ -1,2 +1,2 @@
 # samir_portfolio
-this is my portfolio website
+Hi Everyone My name is Samir kumar. I am a Frontend  Web Developer. Currently I am working on react and building projects.Crafted using HTML, CSS, and JavaScript. This site is a showcase of my front-end development skills and features a collection of my projects, including a dynamic news website, an interactive weather website, and an engaging number guessing game. Each project highlights my proficiency in creating responsive web applications and designing user-friendly interfaces.
